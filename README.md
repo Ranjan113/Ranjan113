@@ -8,6 +8,14 @@ I am Ranjan Mittal, a passionate ml enthhusiasist
 🎮 Not just a coder — I'm a gamer too! I love balancing logic with a bit of fun. 🎮
 
 
+🛠️ Tech Stack & Tools
+<img width="580" height="71" alt="image" src="https://github.com/user-attachments/assets/6761be6c-60ad-4e5a-9cf6-5a7aee3e3328" />
+
+
+
+
+
+
 <!--
 **Ranjan113/Ranjan113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
