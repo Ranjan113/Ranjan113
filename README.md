@@ -4,6 +4,7 @@ Hi there 👋 I’m Ranjan Mittal, a lifelong learner with a deep interest in Ma
 I am Ranjan Mittal, a passionate ml enthhusiasist
 
 🌱 I'm constantly learning and diving deeper into Machine Learning and AI.
+<br>
 👯 Open to collaborations — always excited to contribute to impactful ML projects.
 🎮 Not just a coder — I'm a gamer too! I love balancing logic with a bit of fun. 🎮
 
