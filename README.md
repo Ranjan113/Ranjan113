@@ -1,4 +1,12 @@
-## Hi there 👋
+## About Me:
+
+Hi there 👋 I’m Ranjan Mittal, a lifelong learner with a deep interest in Machine Learning and data science.
+I am Ranjan Mittal, a passionate ml enthhusiasist
+
+🌱 I'm constantly learning and diving deeper into Machine Learning and AI.
+👯 Open to collaborations — always excited to contribute to impactful ML projects.
+🎮 Not just a coder — I'm a gamer too! I love balancing logic with a bit of fun. 🎮
+
 
 <!--
 **Ranjan113/Ranjan113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
