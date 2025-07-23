@@ -13,7 +13,8 @@ I am Ranjan Mittal, a passionate ml enthhusiasist
 
 
 
-<img width="580" height="71" alt="image" src="https://github.com/user-attachments/assets/6761be6c-60ad-4e5a-9cf6-5a7aee3e3328" />
+<img width="584" height="51" alt="image" src="https://github.com/user-attachments/assets/83d4fb98-86a3-458d-bc43-4d178827f1db" />
+
 
 
 
